@@ -12,7 +12,7 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
+  color: #bf3e11;
   border: 1px solid #64a19d;
 }
 
@@ -63,7 +63,7 @@
     color: white;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #bf3e11;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #161616;
@@ -92,8 +92,8 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.3)), color-stop(75%, rgba(22, 22, 22, 0.7)), to(#161616)), url("../img/bg-masthead.jpg");
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/bg-masthead.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.3)), color-stop(75%, rgba(22, 22, 22, 0.7)), to(#161616)), url("../img/mkg_truck.jpg");
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/mkg_truck.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
